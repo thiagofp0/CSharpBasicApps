@@ -1,0 +1,16 @@
+C:\Users\thiag\Desktop\yyyy\bin\Debug\net5.0\yyyy.exe
+C:\Users\thiag\Desktop\yyyy\bin\Debug\net5.0\yyyy.deps.json
+C:\Users\thiag\Desktop\yyyy\bin\Debug\net5.0\yyyy.runtimeconfig.json
+C:\Users\thiag\Desktop\yyyy\bin\Debug\net5.0\yyyy.runtimeconfig.dev.json
+C:\Users\thiag\Desktop\yyyy\bin\Debug\net5.0\yyyy.dll
+C:\Users\thiag\Desktop\yyyy\bin\Debug\net5.0\ref\yyyy.dll
+C:\Users\thiag\Desktop\yyyy\bin\Debug\net5.0\yyyy.pdb
+C:\Users\thiag\Desktop\yyyy\obj\Debug\net5.0\yyyy.csprojAssemblyReference.cache
+C:\Users\thiag\Desktop\yyyy\obj\Debug\net5.0\yyyy.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\thiag\Desktop\yyyy\obj\Debug\net5.0\yyyy.AssemblyInfoInputs.cache
+C:\Users\thiag\Desktop\yyyy\obj\Debug\net5.0\yyyy.AssemblyInfo.cs
+C:\Users\thiag\Desktop\yyyy\obj\Debug\net5.0\yyyy.csproj.CoreCompileInputs.cache
+C:\Users\thiag\Desktop\yyyy\obj\Debug\net5.0\yyyy.dll
+C:\Users\thiag\Desktop\yyyy\obj\Debug\net5.0\ref\yyyy.dll
+C:\Users\thiag\Desktop\yyyy\obj\Debug\net5.0\yyyy.pdb
+C:\Users\thiag\Desktop\yyyy\obj\Debug\net5.0\yyyy.genruntimeconfig.cache

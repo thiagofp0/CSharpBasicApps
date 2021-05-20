@@ -1,0 +1,13 @@
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.exe
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.deps.json
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.json
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.dll
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\bin\Debug\netcoreapp3.1\BasicCalculator.pdb
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.dll
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.pdb
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\BasicCalculator\obj\Debug\netcoreapp3.1\BasicCalculator.genruntimeconfig.cache

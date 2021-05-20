@@ -1,0 +1,16 @@
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.exe
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.deps.json
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.runtimeconfig.json
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.runtimeconfig.dev.json
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.dll
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\bin\Debug\net5.0\ref\BasicCalculator.dll
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\bin\Debug\net5.0\BasicCalculator.pdb
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.csprojAssemblyReference.cache
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.AssemblyInfoInputs.cache
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.AssemblyInfo.cs
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.csproj.CoreCompileInputs.cache
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.dll
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\obj\Debug\net5.0\ref\BasicCalculator.dll
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.pdb
+D:\Thiago\Projetos\C#\BasicCalculator\BasicCalculator\obj\Debug\net5.0\BasicCalculator.genruntimeconfig.cache
